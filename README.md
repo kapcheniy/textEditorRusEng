@@ -2,6 +2,7 @@
 
 Этот проект представляет собой программу на языке C++, которая выполняет транслитерацию текста между английской и русской раскладками клавиатуры. Программа автоматически определяет направление транслитерации (английский → русский или русский → английский) на основе первого символа введённого текста.
 
+This project is a C++ program that transliterates text between English and Russian keyboard layouts. Russian Russian Transliteration The program automatically determines the transliteration direction (English → Russian or Russian → English) based on the first character of the entered text.
 ## Возможности
 
 ### Транслитерация с английского на русский:
